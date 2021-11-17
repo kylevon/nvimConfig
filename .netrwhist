@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/kyle/Documents/Programming/cpp/code/dataStructures/dequeue/src/deque'
+let g:netrw_dirhist_1='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2/src/deque'
+let g:netrw_dirhist_0='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2/src'
+let g:netrw_dirhist_9='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2'
+let g:netrw_dirhist_8='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2/src/deque'
+let g:netrw_dirhist_7='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2/src'
+let g:netrw_dirhist_6='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2'
+let g:netrw_dirhist_5='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2/src/deque'
+let g:netrw_dirhist_4='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2/src'
+let g:netrw_dirhist_3='/Users/kyle/Documents/Programming/parallelProgramming/assignments/LanguageAbstractions/Assignment1/Solution/Exercise2'

@@ -1,0 +1,4 @@
+#!/bin/bash
+file=$(echo $1 | sed 's/wiki/html/' | sed 's/md$/html/')
+open -j $file
+open /Applications/kitty.app 
